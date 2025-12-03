@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="motorcycle" id="sv650">
+        <brand>Suzuki</brand>
+        <model>SV650</model>
+        <year>2023</year>
+        <engine>645cc V-twin</engine>
+        <usage>Daily commute - summer</usage>
+    </vehicle>
+
+    <vehicle type="car" id="yaris">
+        <brand>Toyota</brand>
+        <model>Yaris</model>
+        <year>2011</year>
+        <fuel>Petrol</fuel>
+        <usage>Daily commute - winter</usage>
+    </vehicle>
+
+    <vehicle type="hoverboard" id="hoverboard">
+        <brand>Generic</brand>
+        <year>2015</year>
+        <range>150 km</range>
+        <usage>Short-distance mobility</usage>
+    </vehicle>
+</transport>

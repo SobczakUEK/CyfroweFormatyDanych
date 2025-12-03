@@ -1,0 +1,14 @@
+{
+  "operator": "DB Fernverkehr",
+  "trainNumber": "ICE 612",
+  "departureStation": "Berlin Hbf",
+  "arrivalStation": "München Hbf",
+  "departureTime": "2025-01-14T09:34",
+  "arrivalTime": "2025-01-14T13:49",
+  "seat": {
+    "coach": 12,
+    "seatNumber": 45
+  },
+  "priceEUR": 89.90,
+  "isFlexible": false
+}
